@@ -1,0 +1,17 @@
+﻿<Window x:Class="Pong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pong"
+        mc:Ignorable="d"
+        Title="Pong" Height="450" Width="800">
+    <Canvas Background="Black" Name="myCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp">
+        <Ellipse Height="25" Width="25" Fill="White" Name="Ball" Canvas.Left="386" Canvas.Top="197"/>
+        <Rectangle Height="100" Width="25" Fill="White" Name="player2" Canvas.Top="150" Canvas.Left="742"></Rectangle>
+        <Rectangle Height="100" Width="25" Fill="White" Name="player1" Canvas.Top="150" Canvas.Left="33"></Rectangle>
+        <Label Content="0" Foreground="White" FontSize="20" Canvas.Top="10" Name="playerScore1"/>
+        <Label Content="0" Foreground="White" FontSize="20" Canvas.Left="771" Canvas.Top="10" Name="playerScore2"/>
+        <Label Name="winner" Foreground="Aquamarine" Content="WINNER IS PLAYER 1" FontSize="50"  Canvas.Left="154" Canvas.Top="24" Visibility="Hidden"/>
+    </Canvas>
+</Window>

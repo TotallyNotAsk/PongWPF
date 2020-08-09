@@ -1,0 +1,15 @@
+C:\Users\asklo\source\repos\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\asklo\source\repos\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\asklo\source\repos\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\MainWindow.g.cs
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\App.g.cs
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\MainWindow.baml
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.g.resources
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\asklo\source\repos\Pong\Pong\obj\Debug\Pong.pdb
